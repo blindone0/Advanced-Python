@@ -1,0 +1,49 @@
+<object id="" title=""
+title_en=""
+ categories="ТВ"
+ genres="Музыка"
+ serial="false"
+ page="https://megogo.net/ru/view/699931" type="TV"
+ kinopoisk_id="0"
+ vod="svod">
+<qualities><quality value="SD">
+</quality></qualities>
+<info 
+year="2014"
+ country="Украина"
+ budget="" 
+premiere="" 
+dvd="" 
+duration="">
+</info>
+<actors>
+</actors>
+<directors>
+</directors>
+<finger_language>
+0</finger_language>
+<audio_description>0
+</audio_description>
+<ratings kinopoisk="" 
+imdb=""></ratings><dues usa="" russian="">
+</dues><story><![CDATA[Популярная современная музыка, интерактивные развлечения и услуги, горячие новости украинского и мирового шоу-бизнеса, интересные музыкальные программы - 
+все это 7 дней в неделю, 24 часа в сутки в эфире музыкального телеканала OTV.
+
+]]></story>
+<poster url="http://s3.vcdn.biz/static/f/333955821/image.jpg" thumbnail="http://s6.vcdn.biz/static/f/333955851/image.jpg"></poster><embed_allowed>0</embed_allowed><iframe width="850" height="480" src="https://embed.megogo.ne
+t/ev3/universal?id=699931&amp;lang=ru" frameborder="0" scrolling="no" allowfullscreen="true" allow="encrypted-media"></iframe><ios_allowed>1</ios_allowed><smart_tv_allowed>1</smart_tv_allowed><web_allowed>1</web_allowed><closing_date>
+2066-06-30T00:00:00</closing_date><contract_id>18231</contract_id><age_limit>0</age_limit><protection>0</protection><duration_sec>0</duration_sec><distributions><distribution vod_type="svod"><price price="199.0" service_name="Опт
+имальная" tariff_id="66125" service_id="66105" currency="uah" watch_period="2592000"></price><price price="1194.0" service_name="Оптимальная" tariff_id="66135" service_id="66105" currency="uah" watch_period="15552000"></price><price 
+price="4842.0" service_name="Оптимальная" tariff_id="66145" service_id="66105" currency="uah" watch_period="63072000"></price></distribution><distribution vod_type="svod"><price price="591.0" service_name="Максимальная" tariff_id="84
+31" service_id="2741" currency="uah" watch_period="7776000"></price><price price="1182.0" service_name="Максимальная" tariff_id="8651" service_id="2741" currency="uah" watch_period="15552000"></price><price price="197.0" service_name="М
+аксимальная" tariff_id="3231" service_id="2741" currency="uah" watch_period="2592000"></price><price price="4794.0" service_name="Максимальная" tariff_id="46515" service_id="2741" currency="uah" watch_period="63072000"></price></dis
+tribution><distribution vod_type="svod"><price price="247.0" service_name="Максимальная + благотворительность" tariff_id="60615" service_id="60605" currency="uah" watch_period="2592000"></price></distribution><distribution vod_type="sv
+od"><price price="99.0" service_name="Легкая" tariff_id="64402" service_id="64401" currency="uah" watch_period="2592000"></price><price price="594.0" service_name="Легкая" tariff_id="64403" service_id="64401" currency="uah" watch_per
+iod="15552000"></price><price price="1188.0" service_name="Легкая" tariff_id="64404" service_id="64401" currency="uah" watch_period="31104000"></price></distribution></distributions><audio_list></audio_list><subtitles></subtitles></obj
+ect>
+
+[<qualities><quality value="SD"></quality></qualities>, <info budget="" country="Украина" duration="" dvd="" premiere="" year="2014"></info>, <actors></actors>, <directors></directors>, <finger_language>0</finger_language>, <audio_description>0</audio_description>, <ratings imdb="" kinopoisk=""></ratings>, <dues russian="" usa=""></dues>, <story>
+<br/> 
+Телеканал вещает на украинском, русском и английском языках.
+]]&gt;</story>, <poster thumbnail="http://s6.vcdn.biz/static/f/333955851/image.jpg" url="http://s3.vcdn.biz/static/f/333955821/image.jpg"></poster>, <embed_allowed>0</embed_allowed>, <iframe allow="encrypted-media" allowfullscreen="true" frameborder="0" height="480" scrolling="no" src="https://embed.megogo.net/ev3/universal?id=699931&amp;lang=ru" width="850"></iframe>, <ios_allowed>1</ios_allowed>, <smart_tv_allowed>1</smart_tv_allowed>, <web_allowed>1</web_allowed>, <closing_date>2066-06-30T00:00:00</closing_date>, <contract_id>18231</contract_id>, <age_limit>0</age_limit>, <protection>0</protection>, <duration_sec>0</duration_sec>, <distributions><distribution vod_type="svod"><price currency="uah" price="199.0" service_id="66105" service_name="Оптимальная" tariff_id="66125" watch_period="2592000"></price><price currency="uah" price="1194.0" service_id="66105" service_name="Оптимальная" tariff_id="66135" watch_period="15552000"></price><price currency="uah" price="4842.0" service_id="66105" service_name="Оптимальная" tariff_id="66145" watch_period="63072000"></price></distribution><distribution vod_type="svod"><price currency="uah" price="591.0" service_id="2741" service_name="Максимальная" tariff_id="8431" watch_period="7776000"></price><price currency="uah" price="1182.0" service_id="2741" service_name="Максимальная" tariff_id="8651" watch_period="15552000"></price><price currency="uah" price="197.0" service_id="2741" service_name="Максимальная" tariff_id="3231" watch_period="2592000"></price><price currency="uah" price="4794.0" service_id="2741" service_name="Максимальная" tariff_id="46515" watch_period="63072000"></price></distribution><distribution vod_type="svod"><price currency="uah" price="247.0" service_id="60605" service_name="Максимальная + благотворительность" tariff_id="60615" watch_period="2592000"></price></distribution><distribution vod_type="svod"><price currency="uah" price="99.0" service_id="64401" service_name="Легкая" tariff_id="64402" watch_period="2592000"></price><price currency="uah" price="594.0" service_id="64401" service_name="Легкая" tariff_id="64403" watch_period="15552000"></price><price currency="uah" price="1188.0" service_id="64401" service_name="Легкая" tariff_id="64404" watch_period="31104000"></price></distribution></distributions>, <audio_list></audio_list>, <subtitles></subtitles>]
+{'id': '699931', 'title': 'OTV', 'title_en': 'OTV', 'categories': 'ТВ', 'genres': 'Музыка', 'serial': 'false', 'page': 'https://megogo.net/ru/view/699931', 'type': 'TV', 'kinopoisk_id': '0', 'vod': 'svod'}
